@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<diagram-geometry>
+    <node>
+        <id>view#Juliette#0</id>
+        <bounds x="94" y="173"/>
+    </node>
+    <node>
+        <id>view#CreateJuliette#1</id>
+        <bounds x="302" y="88"/>
+    </node>
+    <node>
+        <id>view#ChooseJuliette#2</id>
+        <bounds x="301" y="298"/>
+    </node>
+    <node>
+        <id>view#Camera#3</id>
+        <bounds x="192" y="48"/>
+    </node>
+    <node>
+        <id>view#view0#4</id>
+        <bounds x="108" y="318"/>
+    </node>
+</diagram-geometry>

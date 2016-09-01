@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<diagram-geometry>
+    <node>
+        <id>view#Troops#0</id>
+        <bounds x="102" y="204"/>
+    </node>
+    <node>
+        <id>view#CreateTroop#1</id>
+        <bounds x="286" y="81"/>
+    </node>
+</diagram-geometry>
